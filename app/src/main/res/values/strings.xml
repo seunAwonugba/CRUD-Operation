@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CRUD Operation</string>
+    <string name="firstName">Seun</string>
+    <string name="lastName">Awonugba</string>
+    <string name="phoneNumber">08080375217</string>
+    <string name="email">seunawonugba@gmail.com</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="Email">Email</string>
+    <string name="number">Number</string>
+    <string name="image">Image</string>
+    <string name="createContact">Create Contact</string>
+    <string name="backToContact">Go Back</string>
+    <string name="floatingButton">floatingButton</string>
+    <string name="sa">SA</string>
+    <string name="profile">Profile</string>
+    <string name="displayedFirstName">FirstName</string>
+    <string name="displayLastName">Lastname</string>
+    <string name="inputPhoneNumber">TextView</string>
+    <string name="inputEmail">Email</string>
+    <string name="x">X</string>
+    <string name="contacts_number">Contacts Number</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="deleteButton">Delete</string>
+    <string name="contacts_email">Contacts Email</string>
+    <string name="editContact">Edit contact details</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_first_name">Edit Firstname</string>
+    <string name="edit_lastname">Edit Lastname</string>
+    <string name="edit_email">Edit Email</string>
+    <string name="edit_number">Edit Number</string>
+    <string name="update_contact">Update</string>
+    <string name="cancel">Cancel</string>
+</resources>
